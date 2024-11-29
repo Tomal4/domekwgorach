@@ -79,7 +79,7 @@
         android:id="@+id/textView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="komfortowy domek w Sudetach, blisko do szlaków turystycznych."
+        android:text="Odwiedź komfortowy domek w Sudetach, blisko do szlaków turystycznych."
         android:textColor="#808080"
         android:layout_margin="5dp"/>
 </LinearLayout>
